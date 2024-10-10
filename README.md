@@ -11,8 +11,8 @@ and allows the user to alter the Txt file within the program itself.
 
 ### **Clone repository**
 The first step is to clone the repository to your device. Start your command prompt in the desired
-directory and run 'git clone https://github.com/Ruhan-Cilliers/Capstone-task.git' to get the repository onto 
-your local device.
+directory and run 'git clone https://github.com/Ruhan-Cilliers/Capstone-Inventory-Tracker-Project.git' 
+to get the repository onto your local device.
 
 ### **Deploying program using your device:**
 * Open the entire folder in your code viewer of choice, such as Visual Code Studio.
